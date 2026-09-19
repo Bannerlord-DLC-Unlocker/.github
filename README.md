@@ -4,10 +4,10 @@
 
 ---
 
-## 🔗 Latest Release of Linua Updater
+## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Bannerlord-DLC-Unlocker/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
